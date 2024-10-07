@@ -1,6 +1,6 @@
 # Vasileios Efthymiou
 
-Welcome to my professional overview. I am a dedicated Computer Science student at the University of Macedonia, Thessaloniki, Greece, specializing in Artificial Intelligence, Machine Learning, and new technologies. With a strong academic background and a portfolio of impactful projects, I aspire to contribute to the advancement of AI, tackling real-world challenges through innovative solutions.
+Welcome to my professional overview. I am a dedicated computer scientist and researcher at the University of Macedonia, Thessaloniki, Greece, specializing in Artificial Intelligence, Machine Learning, and new technologies. With a strong academic background and a portfolio of impactful projects, I aspire to contribute to the advancement of AI, tackling real-world challenges through innovative solutions.
 
 ## About Me
 
@@ -9,9 +9,10 @@ As a future AI specialist, I am deeply passionate about exploring the frontiers 
 ## Education
 
 - **University of Macedonia, Thessaloniki, Greece**
-  - B.S. Applied Informatics (Computer Science), 10/2020 - 07/2024
+  - B.S. Applied Informatics (Computer Science), 10/2020 - 09/2024
   - Concentration: Machine Learning, Neural Networks, Artificial Intelligence
-  - Thesis: “Machine Learning Applications in PID controllers for Autonomous Driving” (Pending)
+  - Thesis: “CNN-based object detection for autonomous driving: a comparative analysis”
+  - Paper: "CNN Architectures for Vehicle Detection in V2X Environments: A Comparative Study" (Pending)
 
 ## Key Projects and Awards
 
@@ -20,6 +21,7 @@ As a future AI specialist, I am deeply passionate about exploring the frontiers 
 - **1st Place at the University of Macedonia Datathon**, 12/2023
 - **Bankruptcy Prediction**, Machine Learning Class, 10/2023 - 12/2023
 - **Fashion-MNIST Clustering and Dimensionality Reduction**, 10/2023 - 12/2023
+- **2nd Place at the University of Macedonia Hackathon**, 05/2024
 
 ## Conferences & Workshops
 
